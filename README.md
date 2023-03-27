@@ -28,5 +28,5 @@ This repo contains 12 months of sales data of an Electronic store for Analysis, 
 - Gmail: qsajjad485@gmail.com
 
 ## Credit:
-This project was upgraded version of Keith Galli's data Science project on Youtube "Solving real world data science tasks with Python Pandas!" do check him out he's amazing.
+This project was upgraded version of Keith Galli's data Science project on Youtube "Solving real world data science tasks with Python Pandas!" do check him out he's amazing. <br/>
 Keith's Video link: https://www.youtube.com/watch?v=eMOA1pPVUc4
